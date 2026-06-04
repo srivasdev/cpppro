@@ -36,7 +36,15 @@ int main(){
 // cout << alphabet << endl;
 // cout << weight << endl;
 // cout << isMale << endl;
-int age = 20;
-cout << sizeof(age) << endl;
+// int age = 20;
+// cout << sizeof(age) << endl;
+// int age = 12;
+// {
+// int age =3;
+// }
+// {
+//     int age = 26;
+    
+//}
 return 0;
 }
