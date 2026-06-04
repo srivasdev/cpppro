@@ -6,14 +6,14 @@ cout << "Enter your age:" << endl;
 cin >> age;
 cout << "Yes!Your age is:" << age << endl;
 
-{
-    int marks;
-    cout << "Enter your marks:" << endl;
-    cin >> marks;
-    cout << marks <<" is very low marks." << endl;
-}
-{
+ {
+     int marks;
+     cout << "Enter your marks:" << endl;
+     cin >> marks;
+     cout << marks <<" is very low marks." << endl;
+ }
+//{
 
-}
+//}
  return 0;
 }
