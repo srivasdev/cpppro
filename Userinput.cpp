@@ -12,6 +12,8 @@ cout << "Yes!Your age is:" << age << endl;
     cin >> marks;
     cout << marks <<" is very low marks." << endl;
 }
+{
 
+}
  return 0;
 }
