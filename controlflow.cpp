@@ -13,7 +13,10 @@ if(budget > 2000000){
     cout << "You can buy Scorpio" << endl;
 
 }
-
+  
+else{
+cout << "You can't bro" << endl;
+}
 return 0;
 
 }
