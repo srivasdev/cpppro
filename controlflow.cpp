@@ -61,7 +61,8 @@ if(height > 5){
 else {
     cout << "Complan dila du?" << endl;
 }
-
+// agar height condition true toh sab execute hoga but bhai tujhse wala ni hoga.
+// agar weight bhi true toh complan ni hoga.
 
 
 return 0;
