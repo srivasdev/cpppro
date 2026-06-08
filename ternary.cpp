@@ -8,8 +8,8 @@ int main(){
 
 // (age > 18) ? cout << "Can vote" : cout << "Cannot Vote" ;
 
-int x = 10;
-int y = 20;
+int x = 20;
+int y = 40;
 
 int result = (x > y) ? x:y;
 
