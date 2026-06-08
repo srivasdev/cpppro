@@ -17,7 +17,7 @@ int main (){
 
 
 // counting 1 to 15
- for(int i=0; i<=15; i = i+1){
+ for(int i=0; i<=12; i = i+2){
     cout << i << " ";
     if(i == 5){
         break;
