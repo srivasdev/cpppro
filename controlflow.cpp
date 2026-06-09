@@ -54,12 +54,12 @@ if(height > 5){
         cout << "You got a good BMI" << endl;
     }
     else {
-        cout << "BHai tujhse na ho payega" << endl;
+        cout << "Bas kar rulayega kya?" << endl;
     }
 
 }
 else {
-    cout << "Complan dila du?" << endl;
+    cout << "Kha pee le?" << endl;
 }
 // agar height condition true toh sab execute hoga but bhai tujhse wala ni hoga.
 // agar weight bhi true toh complan ni hoga.
