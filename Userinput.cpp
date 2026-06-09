@@ -7,7 +7,7 @@ cin >> age;
 cout << "Yes!Your age is:" << age << endl;
 
  {
-     int marks;
+     float marks;
      cout << "Enter your marks:" << endl;
      cin >> marks;
      cout << marks <<" is very low marks." << endl;
