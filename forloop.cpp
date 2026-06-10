@@ -4,9 +4,9 @@ using namespace std;
 int main (){
 
 //  for
-  for(int count =1; count <=50; count= count+1) {
-     cout << "Devansh" << endl;
-}
+//   for(int count =1; count <=50; count= count+1) {
+//      cout << "Devansh" << endl;
+// }
 
 
 
@@ -36,6 +36,15 @@ int main (){
 //     }
 //     cout << "Iteration" << endl;
 // }
+
+
+// A to Z
+
+for(char ch='a'; ch<='z'; ch=ch+1){
+    cout << " " << ch << endl;
+}
+
+
 
     return 0;
 }
